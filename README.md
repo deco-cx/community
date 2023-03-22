@@ -25,3 +25,4 @@ We encourage anyone interested in building for the Deco ecosystem to get involve
 
 # Links
 - http://deco.cx/ - the deco.cx landing page
+- http://deco.cx/discord - the deco.cx discord channel
