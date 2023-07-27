@@ -19,7 +19,7 @@ We encourage anyone interested in building for the Deco ecosystem to get involve
 
 # Main Repositories
 
-- [live](https://github.com/deco-cx/live) - the deco runtime framework built on top of deno and fresh.
+- [deco](https://github.com/deco-cx/deco) - the deco runtime framework built on top of deno and fresh.
 - [deco-sites/std](https://github.com/deco-sites/std) - the standard lib that contains a variety of common used blocks
 - [deco-sites/fashion](https://github.com/deco-sites/fashion) - the starting point for every site
 
